@@ -1,0 +1,76 @@
+
+
+.one-two{
+
+	width: 200px;
+	height: 400px;
+	background: grey;
+	float: left;
+}
+
+
+.one{
+
+	
+	width: 600px;
+	height: 200px;
+	background-color: blue;
+	
+
+}
+
+
+
+.two{
+
+	float: left;
+	width: 60px;
+	height: 60px;
+	background-color: green;
+	display: inline-block;
+
+	
+
+}
+
+.two:hover{
+
+	background-color: blue;
+}
+.three{
+
+	float: left;
+	width: 60px;
+	height: 60px;
+	background-color: red;
+	
+}
+.three:hover{
+
+	background-color: green;
+}
+
+.four{
+
+	float: left;
+	width: 60px;
+	height:60px;
+	background-color: yellow;
+}
+
+.four:hover{
+
+	background-color: red;
+}
+
+nav ul {
+
+	list-style: none;
+	text-align: center;
+
+}
+
+ul li a {
+
+	color: white;
+}
